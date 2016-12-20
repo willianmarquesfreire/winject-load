@@ -1543,4 +1543,6 @@ var _WDInject = require('./WDInject');
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+console.log("Winject Iniciado!");
+
 },{"./InjectionPool":21,"./WDInject":22}]},{},[1]);

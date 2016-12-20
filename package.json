@@ -1,6 +1,6 @@
 {
   "name": "winject-load",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library to use Dependency Injection in ES6 using Decorators",
   "main": "./bootstrap.js",
   "scripts": {
